@@ -9,7 +9,7 @@ int main()
 
     int i, j;
     char nome[5][300];
-    float notas[3][5];
+    float notas[5][3];
     int idade[5];
     float media[5];
     float somaNotas = 0;
